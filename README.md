@@ -1,6 +1,7 @@
 # Hospital Analytics Dashboard (Power BI)
 <p align="center">
-  <img src="docs/banner.png" width="100%">
+  <img src="<img width="1774" height="887" alt="ChatGPT Image Jul 6, 2026, 12_27_50 AM" src="https://github.com/user-attachments/assets/bfbc9cd9-ff24-438d-b2d4-6466317bfbb4" />
+" width="100%">
 </p>
 
 <h1 align="center">🏥 Hospital Analytics Dashboard (Power BI)</h1>
