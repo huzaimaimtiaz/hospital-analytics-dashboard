@@ -79,4 +79,4 @@ Provider-level workload, revenue, and insurance mix.
 
 **Huzaima** — Data Science student at COMSATS University Islamabad
 
-[LinkedIn](#) · [Portfolio](#)
+[https://www.linkedin.com/in/huzaima-imtiaz/](#) 
