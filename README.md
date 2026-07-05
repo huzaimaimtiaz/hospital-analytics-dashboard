@@ -22,23 +22,39 @@ This project is a four-page Power BI dashboard built on a synthetic healthcare d
 The report is fully interactive with hospital and year slicers, allowing users to filter data across every page.
 
 ## Dashboard Preview
+## Dashboard Preview
 
 ### Executive Dashboard
 
-<img src="https://github.com/user-attachments/assets/440a6b7c-8baf-4d9d-af72-49996ce670c4" width="100%">
+Provides an overview of hospital performance through KPIs, revenue trends, admissions, and insurance analysis.
+
+<p align="center">
+<img src="..." width="95%">
+</p>
 
 ### Clinical Operations & Efficiency
 
-<img src="https://github.com/user-attachments/assets/28e410e3-3490-4a79-8f1b-2a7ae9e70ea4" width="100%">
+Focuses on hospital workload, patient flow, admission types, and operational efficiency.
+
+<p align="center">
+<img src="..." width="95%">
+</p>
 
 ### Patient Demographics
 
-<img src="https://github.com/user-attachments/assets/f9c5cf10-7f28-49e7-9a49-1099347749ae" width="100%">
+Analyzes age groups, gender distribution, medical conditions, and blood types.
+
+<p align="center">
+<img src="..." width="95%">
+</p>
 
 ### Doctor & Provider Performance
 
-<img src="https://github.com/user-attachments/assets/f20e8e23-980c-42ea-81fb-0bd1d45a28c6" width="100%">
+Measures provider workload, revenue generation, and patient distribution.
 
+<p align="center">
+<img src="..." width="95%">
+</p>
 ## Report Pages
 
 ### Executive Dashboard
