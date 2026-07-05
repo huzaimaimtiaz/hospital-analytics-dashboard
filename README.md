@@ -1,4 +1,22 @@
 # Hospital Analytics Dashboard (Power BI)
+<p align="center">
+  <img src="docs/banner.png" width="100%">
+</p>
+
+<h1 align="center">🏥 Hospital Analytics Dashboard (Power BI)</h1>
+
+<p align="center">
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power_Query-ETL-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Apache_2.0-green?style=for-the-badge)
+
+</p>
+
+<p align="center">
+Interactive Power BI dashboard for analyzing hospital operations, admissions, revenue, clinical efficiency, and patient demographics.
+</p>
 
 An interactive 4-page Power BI dashboard analyzing hospital operations across admissions, revenue, clinical efficiency, patient demographics, and doctor performance. Built on a synthetic healthcare dataset of ~55,500 patient records.
 
