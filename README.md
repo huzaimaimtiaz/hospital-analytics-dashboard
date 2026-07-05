@@ -1,29 +1,51 @@
-# Hospital Analytics Dashboard (Power BI)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bfbc9cd9-ff24-438d-b2d4-6466317bfbb4" width="100%" alt="Hospital Analytics Dashboard Banner">
 </p>
 
-<h1 align="center">🏥 Hospital Analytics Dashboard</h1>
+<h1 align="center">Hospital Analytics Dashboard (Power BI)</h1>
 
 <p align="center">
-Interactive Power BI dashboard for analyzing hospital operations, admissions, revenue, clinical efficiency, and patient demographics.
+  An interactive Business Intelligence dashboard built with <b>Power BI</b> to analyze hospital operations, financial performance, clinical efficiency, and patient demographics.
 </p>
 
 <p align="center">
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power_Query-ETL-success?style=for-the-badge)
-![Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-green?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Power_Query-ETL-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-Apache_2.0-green?style=for-the-badge">
 </p>
 
-<p align="center">
-Interactive Power BI dashboard for analyzing hospital operations, admissions, revenue, clinical efficiency, and patient demographics.
-</p>
+---
 
-An interactive 4-page Power BI dashboard analyzing hospital operations across admissions, revenue, clinical efficiency, patient demographics, and doctor performance. Built on a synthetic healthcare dataset of ~55,500 patient records.
+## 📖 Overview
 
+This project is a **4-page interactive Power BI dashboard** designed to help healthcare administrators and decision-makers monitor operational, financial, and clinical performance across multiple hospitals.
+
+The dashboard is built using a **synthetic healthcare dataset containing approximately 55,500 patient records** and focuses on transforming raw healthcare data into actionable business insights.
+
+### Key Highlights
+
+- 📊 Interactive Power BI dashboard
+- 🏥 Hospital operations analytics
+- 💰 Revenue and financial performance analysis
+- 👨‍⚕️ Doctor performance monitoring
+- 🛏️ Bed occupancy and patient flow tracking
+- 👥 Patient demographic analysis
+- 📅 Dynamic filtering by hospital and year
+- ⚡ Cross-filtering across all visuals
+
+---
+
+## 📂 Dashboard Pages
+
+| Dashboard | Description |
+|-----------|-------------|
+| 🏥 Executive Overview | High-level KPIs, admissions, occupancy, revenue, and overall performance |
+| 💰 Financial Analytics | Revenue trends, billing analysis, and departmental performance |
+| 👨‍⚕️ Doctor Performance | Doctor workload, patient count, and efficiency metrics |
+| 👥 Patient Demographics | Age distribution, gender analysis, diagnosis trends, and patient insights |
+
+---
 ## Overview
 
 A single reporting solution for hospital administrators to monitor financial performance, patient throughput, clinical efficiency, and provider workload. The report is split into four role-focused pages, so executives, clinicians, and operations staff each get the view relevant to them. Every page is filterable by hospital and year, with cross-filtering across all visuals.
