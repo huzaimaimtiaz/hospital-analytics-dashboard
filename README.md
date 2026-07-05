@@ -4,123 +4,156 @@
 
 <h1 align="center">Hospital Analytics Dashboard (Power BI)</h1>
 
-<p align="center">A
-  An interactive Business Intelligence dashboard built with <b>Power BI</b> to analyze hospital operations, financial performance, clinical efficiency, and patient demographics.
+<p align="center">
+Interactive Power BI dashboard for analyzing hospital operations, patient admissions, clinical efficiency, doctor performance, and patient demographics.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Power_Query-ETL-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-Apache_2.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DAX-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Power_Query-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Apache_2.0-License-green?style=for-the-badge">
 </p>
 
----
-
-## 📖 Overview
-
-This project is a **4-page interactive Power BI dashboard** designed to help healthcare administrators and decision-makers monitor operational, financial, and clinical performance across multiple hospitals.
-
-The dashboard is built using a **synthetic healthcare dataset containing approximately 55,500 patient records** and focuses on transforming raw healthcare data into actionable business insights.
-
-### Key Highlights
-
-- 📊 Interactive Power BI dashboard
-- 🏥 Hospital operations analytics
-- 💰 Revenue and financial performance analysis
-- 👨‍⚕️ Doctor performance monitoring
-- 🛏️ Bed occupancy and patient flow tracking
-- 👥 Patient demographic analysis
-- 📅 Dynamic filtering by hospital and year
-- ⚡ Cross-filtering across all visuals
-
----
-
-## 📂 Dashboard Pages
-
-| Dashboard | Description |
-|-----------|-------------|
-| 🏥 Executive Overview | High-level KPIs, admissions, occupancy, revenue, and overall performance |
-| 💰 Financial Analytics | Revenue trends, billing analysis, and departmental performance |
-| 👨‍⚕️ Doctor Performance | Doctor workload, patient count, and efficiency metrics |
-| 👥 Patient Demographics | Age distribution, gender analysis, diagnosis trends, and patient insights |
-
----
 ## Overview
 
-A single reporting solution for hospital administrators to monitor financial performance, patient throughput, clinical efficiency, and provider workload. The report is split into four role-focused pages, so executives, clinicians, and operations staff each get the view relevant to them. Every page is filterable by hospital and year, with cross-filtering across all visuals.
+This project is a four-page Power BI dashboard built on a synthetic healthcare dataset containing approximately **55,500 patient records**. The goal is to provide hospital administrators with an interactive reporting solution for monitoring admissions, operational efficiency, patient demographics, and doctor performance.
 
-## Preview
-<img width="1153" height="642" alt="image" src="https://github.com/user-attachments/assets/440a6b7c-8baf-4d9d-af72-49996ce670c4" />
-<img width="1153" height="647" alt="image" src="https://github.com/user-attachments/assets/28e410e3-3490-4a79-8f1b-2a7ae9e70ea4" />
-<img width="1157" height="653" alt="image" src="https://github.com/user-attachments/assets/f9c5cf10-7f28-49e7-9a49-1099347749ae" />
-<img width="1158" height="647" alt="image" src="https://github.com/user-attachments/assets/f20e8e23-980c-42ea-81fb-0bd1d45a28c6" />
+The report is fully interactive with hospital and year slicers, allowing users to filter data across every page.
 
+## Dashboard Preview
 
+### Executive Dashboard
 
+<img src="https://github.com/user-attachments/assets/440a6b7c-8baf-4d9d-af72-49996ce670c4" width="100%">
+
+### Clinical Operations & Efficiency
+
+<img src="https://github.com/user-attachments/assets/28e410e3-3490-4a79-8f1b-2a7ae9e70ea4" width="100%">
+
+### Patient Demographics
+
+<img src="https://github.com/user-attachments/assets/f9c5cf10-7f28-49e7-9a49-1099347749ae" width="100%">
+
+### Doctor & Provider Performance
+
+<img src="https://github.com/user-attachments/assets/f20e8e23-980c-42ea-81fb-0bd1d45a28c6" width="100%">
 
 ## Report Pages
 
-### 1. Executive
-High-level financial and admissions KPIs for leadership.
+### Executive Dashboard
 
-- **KPI cards:** Total Admissions (55.5K), Total Revenue (1.42bn), Average Billing Amount (25.54K), Average Stay (15.51 days)
-- Total Revenue and Total Admissions by month (combined column and line)
-- Total Revenue by Medical Condition (Diabetes, Obesity, Arthritis, Hypertension, and others)
-- Total Admissions by Admission Type (Elective 49.95%, Emergency 33.28%, Urgent 16.77%)
-- Total Revenue by Insurance Provider (Cigna, UnitedHealthcare, Medicare, Blue Cross, Aetna)
+Provides a high-level overview of hospital performance through key performance indicators and monthly trends.
 
-### 2. Clinical Operations and Efficiency
-Operational efficiency across hospitals, stay length, and admission types.
+**Includes**
 
-- **KPI cards:** Total Patients Treated (37K), Average Patient Stay (15.52 days), Emergency Caseload (37K)
-- Total Revenue and Total Admissions by Hospital
-- Impact of Admission Type on Stay and Billing (matrix: average length of stay and average billing amount per admission type)
-- Total Admissions by month and admission type (line)
-- Length of Stay Distribution (histogram, 0 to 30 days)
+- Total Admissions
+- Total Revenue
+- Average Billing Amount
+- Average Length of Stay
+- Monthly Admissions and Revenue
+- Revenue by Medical Condition
+- Admissions by Admission Type
+- Revenue by Insurance Provider
 
-### 3. Patient Demographics
-Patient population profile by age, gender, blood type, and condition.
+### Clinical Operations & Efficiency
 
-- **KPI cards:** Total Patients (56K), Average Patient Age (51.51), Most Common Blood Type (A-)
-- Total Admissions by Medical Condition and Gender (100% stacked bar)
-- Age Distribution (histogram)
-- Total Admissions by Blood Type (treemap)
-- Revenue by Gender and Admission Type (matrix)
+Focuses on patient flow, operational performance, and hospital efficiency.
 
-### 4. Doctor and Provider Performance
-Provider-level workload, revenue, and insurance mix.
+**Includes**
 
-- **KPI cards:** Total Doctors, Total Patients Treated (56K), Total Revenue (1.42bn)
-- Total Revenue and Total Admissions by Doctor (combined column and line)
-- Total Revenue by Insurance Provider (donut: Cigna, UnitedHealthcare, Medicare, Blue Cross, Aetna)
-- Top 5 Doctors: Caseload and Revenue (matrix broken down by admission type)
+- Total Patients Treated
+- Emergency Caseload
+- Average Patient Stay
+- Admissions by Hospital
+- Revenue by Hospital
+- Length of Stay Distribution
+- Admission Type Analysis
 
-## Data
+### Patient Demographics
 
-- **Source:** [Healthcare Dataset on Kaggle](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
-- **Records:** ~55,500 rows
-- **Key fields:** Age, Gender, Blood Type, Medical Condition, Date of Admission, Doctor, Hospital, Insurance Provider, Billing Amount, Room Number, Admission Type, Discharge Date, Medication, Test Results
-- **Note:** This is a synthetic dataset. It contains no real patient information.
+Provides insights into the hospital's patient population.
 
-## Tools and Techniques
+**Includes**
+
+- Patient Age Distribution
+- Gender Distribution
+- Blood Type Analysis
+- Medical Conditions
+- Revenue by Gender
+- Admissions by Blood Type
+
+### Doctor & Provider Performance
+
+Analyzes provider workload and hospital revenue at the doctor level.
+
+**Includes**
+
+- Total Patients per Doctor
+- Revenue per Doctor
+- Insurance Provider Distribution
+- Top Performing Doctors
+- Caseload Analysis
+
+## Dataset
+
+**Source**
+
+https://www.kaggle.com/datasets/prasad22/healthcare-dataset
+
+**Dataset Size**
+
+Approximately 55,500 patient records
+
+**Fields**
+
+- Age
+- Gender
+- Blood Type
+- Medical Condition
+- Date of Admission
+- Doctor
+- Hospital
+- Insurance Provider
+- Billing Amount
+- Admission Type
+- Medication
+- Test Results
+- Room Number
+- Discharge Date
+
+> This dataset is synthetic and does not contain real patient information.
+
+## Tools Used
 
 - Power BI Desktop
-- Power Query for data cleaning and transformation (ETL)
-- DAX measures for KPIs (Total Revenue, Average Stay, Average Billing Amount, Emergency Caseload, admission percentages)
-- Star schema data model
-- Interactive slicers (Hospital Name, Year) with cross-filtering across all visuals
-- Page navigation buttons for a multi-view report experience
-- Matrix visuals, treemaps, histograms, and combined column-and-line charts
+- Power Query
+- DAX
+- Star Schema Data Model
+
+## Features
+
+- Interactive slicers
+- Cross-filtering across visuals
+- Four report pages
+- KPI cards
+- Drill-down analysis
+- Dynamic filtering by Hospital and Year
+- Multiple chart types including treemaps, matrices, histograms, and combination charts
 
 ## How to Use
 
-1. Download `dashboard/Hospital_Analytics.pbix`
-2. Open it in Power BI Desktop (free)
-3. Use the Hospital Name and Year slicers to filter, and the top navigation buttons to switch between the four pages
+1. Download the Power BI (.pbix) file from the `dashboard` folder.
+2. Open it using Power BI Desktop.
+3. Use the Hospital Name and Year slicers to explore the report.
 
 ## Author
 
-**Huzaima** - Data Science student at COMSATS University Islamabad
+**Huzaima Imtiaz**
 
-[https://www.linkedin.com/in/huzaima-imtiaz/](#) 
+Data Science Undergraduate  
+COMSATS University Islamabad
+
+LinkedIn
+
+https://www.linkedin.com/in/huzaima-imtiaz/
