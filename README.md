@@ -77,6 +77,6 @@ Provider-level workload, revenue, and insurance mix.
 
 ## Author
 
-**Huzaima** — Data Science student at COMSATS University Islamabad
+**Huzaima** - Data Science student at COMSATS University Islamabad
 
 [https://www.linkedin.com/in/huzaima-imtiaz/](#) 
