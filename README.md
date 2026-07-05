@@ -1,17 +1,20 @@
 # Hospital Analytics Dashboard (Power BI)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bfbc9cd9-ff24-438d-b2d4-6466317bfbb4" />
-" width="100%">
+  <img src="https://github.com/user-attachments/assets/bfbc9cd9-ff24-438d-b2d4-6466317bfbb4" width="100%" alt="Hospital Analytics Dashboard Banner">
 </p>
 
-<h1 align="center">🏥 Hospital Analytics Dashboard (Power BI)</h1>
+<h1 align="center">🏥 Hospital Analytics Dashboard</h1>
+
+<p align="center">
+Interactive Power BI dashboard for analyzing hospital operations, admissions, revenue, clinical efficiency, and patient demographics.
+</p>
 
 <p align="center">
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power_Query-ETL-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Apache_2.0-green?style=for-the-badge)
+![Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-green?style=for-the-badge)
 
 </p>
 
