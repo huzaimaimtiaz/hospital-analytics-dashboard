@@ -7,11 +7,13 @@ An interactive 4-page Power BI dashboard analyzing hospital operations across ad
 A single reporting solution for hospital administrators to monitor financial performance, patient throughput, clinical efficiency, and provider workload. The report is split into four role-focused pages, so executives, clinicians, and operations staff each get the view relevant to them. Every page is filterable by hospital and year, with cross-filtering across all visuals.
 
 ## Preview
+<img width="1153" height="642" alt="image" src="https://github.com/user-attachments/assets/440a6b7c-8baf-4d9d-af72-49996ce670c4" />
+<img width="1153" height="647" alt="image" src="https://github.com/user-attachments/assets/28e410e3-3490-4a79-8f1b-2a7ae9e70ea4" />
+<img width="1157" height="653" alt="image" src="https://github.com/user-attachments/assets/f9c5cf10-7f28-49e7-9a49-1099347749ae" />
+<img width="1158" height="647" alt="image" src="https://github.com/user-attachments/assets/f20e8e23-980c-42ea-81fb-0bd1d45a28c6" />
 
-![Executive Dashboard](screenshots/executive.png)
-![Clinical Operations Dashboard](screenshots/clinical.png)
-![Patient Demographics Dashboard](screenshots/demographics.png)
-![Doctor and Provider Performance](screenshots/doctor.png)
+
+
 
 ## Report Pages
 
