@@ -4,7 +4,7 @@
 
 <h1 align="center">Hospital Analytics Dashboard (Power BI)</h1>
 
-<p align="center">
+<p align="center">A
   An interactive Business Intelligence dashboard built with <b>Power BI</b> to analyze hospital operations, financial performance, clinical efficiency, and patient demographics.
 </p>
 
